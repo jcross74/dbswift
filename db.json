@@ -3,34 +3,36 @@
     {
       "id": 1,
       "title": "2019 Food and Wine Festival",
-      "venues": [
+      "booth": [
         {
           "title": "Active Eats",
-          "venueArea": "Future World West",
-          "venueItems": [
+          "boothArea": "Future World West",
+          "boothItems": [
             {
-              "venueItem": [
+              "boothItem": [
                 {
                   "title": "Loaded Mac 'N' Cheese",
                   "productDescription": "ipsum lorem",
+                  "productType": "Food",
                   "productPrice": 5.25,
                   "newStatus": false,
                   "diningPlan": false,
                   "kidApproved": false,
                   "vegetarian": false,
-                  "gluetenFree": false,
+                  "glutenFree": false,
                   "featuredProduct": true,
                   "containsAlcohol": false
                 },
                 {
                   "title": "Spice-crusted Verlasso Salmon",
                   "productDescription": "ipsum lorem",
+                  "productType": "Food",
                   "productPrice": 5.25,
                   "newStatus": false,
                   "diningPlan": false,
                   "kidApproved": false,
                   "vegetarian": false,
-                  "gluetenFree": false,
+                  "glutenFree": false,
                   "featuredProduct": true,
                   "containsAlcohol": false
                 }
