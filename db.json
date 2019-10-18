@@ -1,46 +1,20 @@
 {
-  "events": [
-    {
-      "id": 1,
-      "title": "2019 Food and Wine Festival",
-      "booth": [
-        {
-          "title": "Active Eats",
-          "boothArea": "Future World West",
-          "boothItems": [
-            {
-              "boothItem": [
-                {
-                  "title": "Loaded Mac 'N' Cheese",
-                  "productDescription": "ipsum lorem",
-                  "productType": "Food",
-                  "productPrice": 5.25,
-                  "newStatus": false,
-                  "diningPlan": false,
-                  "kidApproved": false,
-                  "vegetarian": false,
-                  "glutenFree": false,
-                  "featuredProduct": true,
-                  "containsAlcohol": false
-                },
-                {
-                  "title": "Spice-crusted Verlasso Salmon",
-                  "productDescription": "ipsum lorem",
-                  "productType": "Food",
-                  "productPrice": 5.25,
-                  "newStatus": false,
-                  "diningPlan": false,
-                  "kidApproved": false,
-                  "vegetarian": false,
-                  "glutenFree": false,
-                  "featuredProduct": true,
-                  "containsAlcohol": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
+   "results":[
+      {
+         "id":"1001",
+         "festTitle":"2019 Food and Wine Festival"
+      },
+      {
+         "id":"1002",
+         "festTitle":"2020 Food and Wine Festival"
+      },
+      {
+         "id":"1003",
+         "festTitle":"2021 Food and Wine Festival"
+      },
+      {
+         "id":"1004",
+         "festTitle":"2022 Food and Wine Festival"
+      }
+   ]
 }
